@@ -1,0 +1,26 @@
+
+				INVENTARIO
+AUTOS
+
+(1) Matricula: 719DA93 Modelo: CWD2001 Marca: TOYOTA 
+    Tamaño: GRANDE Cilindros: 4 No.pasajeros: 5 No.puertas: 4
+(2) Matricula: 123HTM4 Modelo: RT5000H Marca: HONDA 
+    Tamaño: MEDIANO Cilindros: 5 No.pasajeros: 4 No.puertas: 2
+
+DEPORTIVOS
+
+(1) Matricula: JDOQ31M Modelo: 2020CAS Marca: AVEO 
+    Tamaño: MEDIANO Cilindros: 6 Velocidad: 250 KM/H
+(2) Matricula: 357AZU6 Modelo: VAR343J Marca: BMW 
+    Tamaño: MEDIANO Cilindros: 6 Velocidad:300 KM/H
+
+CAMIONETAS
+
+(1) Matricula: NCEH293 Modelo: 2018JWM Marca: CHEVROLET Carga: 2 T
+(2) Matricula: 987THX4 Modelo: WAR15T4 Marca: FORD Carga: 2.3 T
+
+TURISMO
+
+(1) Matricula: JDWJ392 Modelo: 2009NSU Marca: HONDA No.puertas: 2 No.pasajeros: 48
+(2) Matricula: 000CXZ1 Modelo: FXQS246 Marca: CHEVROLET No.puertas: 3 No.pasajeros: 15
+
